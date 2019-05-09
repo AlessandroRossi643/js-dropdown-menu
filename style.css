@@ -1,0 +1,30 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  max-width: 1300px;
+  height: 150px;
+  margin: 0 auto;
+}
+.header-left{
+  width: 35%;
+}
+.header-right{
+  width: 65%;
+}
+
+
+.header-left a img{
+  max-height: 25px;
+}
+.header-left .main_menu{
+  line-height: 25px;
+}
+.header-left .main_menu .menu_item a{
+  color: grey;
+}
+.header-left .main_menu .menu_item a:hover{
+  color: black;
+  text-decoration: none;
+}
