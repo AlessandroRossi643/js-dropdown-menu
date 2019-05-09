@@ -16,15 +16,23 @@
 
 
 .header-left a img{
-  max-height: 25px;
+  max-height: 30px;
 }
 .header-left .main_menu{
-  line-height: 25px;
+  line-height: 30px;
 }
-.header-left .main_menu .menu_item a{
+
+.main_menu .menu_item a{
   color: grey;
 }
-.header-left .main_menu .menu_item a:hover{
+.main_menu .menu_item a:hover{
   color: black;
   text-decoration: none;
+}
+.header-right button{
+  background-color: rgb(235, 0, 141);
+  border-radius: 2em;
+  color: white;
+  padding: 10px;
+  
 }
