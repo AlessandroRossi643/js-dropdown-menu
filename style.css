@@ -63,6 +63,9 @@
 .wmax{
   width: 200px;
 }
+.wmin{
+  width: 60px;
+}
 .header-right .dropdown_menu a{
   padding-left: 5px;
 }
